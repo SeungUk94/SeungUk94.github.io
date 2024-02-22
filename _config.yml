@@ -21,7 +21,7 @@ github_username:  SeungUk94
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: with_yu
+instagram_username: withyou_su
 ##linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -30,10 +30,10 @@ instagram_username: with_yu
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+##- title: itsgoingto.be
+##  icon: fas fa-globe
+##  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -50,6 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  3년 차 주니어 웹 개발자로서 서비스를 개발/배포/운영하였습니다. 주로 서비스 안정화, 에러 개선, 운영, 개발을 담당하였으며 프로젝트 재구축 업무에도 참여한 경험이 있습니다.
  장기적으로 효율적인 방법을 선호합니다. 이를 위해 소스의 재사용성과 쿼리 효율증가의 역량을 쌓고자 노력해왔습니다. 또한 업무는 모두가 함께하는 것이기에 가독성 있는 소스를 작성하고 소통에 힘쓰며 협업해왔습니다.
+
 
   Skills : <mark>Java</mark>  <mark>java script</mark>  <mark>jsp</mark>  <mark>HTML</mark>  <mark>Spring Framework</mark>   <mark>RDBMS</mark>  <mark>Oracle</mark>
 
@@ -82,8 +83,8 @@ content:
           가톨릭법인 내 장례식장 서비스
         description: | # this will include new lines to allow paragraphs
             - 고가용품 판매현황 쿼리 효율을 개선하여 처리 시간을 2분에서 10초로 단축
-            - 폐기물 처리비용 프로세스를 추가
-            - 품목 단가 이력 관리 프로세스를 신규로 구축
+            - 품목 단가 이력 관리 프로세스 개발
+            - 폐기물 처리비용 프로세스 신규생성
            
       - layout: left
         sub_title: 전자세금계산서
@@ -112,6 +113,7 @@ content:
         title: Blog
         caption: 2023 ~ 현재
         sub_title: TIL
+        url: 
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs  
