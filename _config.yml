@@ -71,8 +71,8 @@ content:
           가톨릭법인 3차 병원에서 사용하는 사용하는 약재 구매대행 서비스
         description: | # this will include new lines to allow paragraphs
             - 가톨릭 병원의 약재 구매대행 서비스 메인 개발자로서 개발/운영 담당
-            |- 병원 창고 간 재고 이동 인터페이스 프로세스 개발
-            |- 신규 기능을 위해 2년 치 데이터를 정확히 추적하여 삽입하여 데이터의 완전성과 품질을 향상
+            - 병원 창고 간 재고 이동 인터페이스 프로세스 개발
+            - 신규 기능을 위해 2년 치 데이터를 정확히 추적하여 삽입하여 데이터의 완전성과 품질을 향상
            
       - layout: left
         sub_title: 장례식장
@@ -88,7 +88,7 @@ content:
       - layout: left
         sub_title: 전자세금계산서
         # 통합의료정보시스템 솔루션 서비스 회사에서 운영/개발
-        caption: 2021.06. - 2023.01.
+        caption: 2021.04. - 2023.01.
         quote: >
           가톨릭법인의 전자세금계산서 발행 및 관리 서비스
         description: | # this will include new lines to allow paragraphs
@@ -105,50 +105,37 @@ content:
         description: | # this will include new lines to allow paragraphs
             - 사내 플랫폼 내 임상연구 화면 생성 및 UI 개선
            
-  - title: Education # Title for the section
+  - title: Other Experiences. # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        title: Blog
+        caption: 2023 ~ 현재
+        sub_title: TIL
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs  
+         have-fun이라는 이름의 기술 블로그를 운영하고 있습니다.
+         비정기적으로 제가 공부한 내용이나, 알게된 내용 등을 작성하여 공유하려고 하고있습니다. 
+          
+      - layout: left
+        title: Capstone design
+        caption: 2018
+        sub_title: Honorable Mention
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs  
+         창의 융합 아이디어 경진대회에 출전하여 대상을 거두고, 해당 아이디어로 캡스톤 대회에 참가하였으나 아쉽게도 입상하지 못했습니다.
+          
+      - layout: left
+        title: 호서대학교
+        caption: 2019
+        sub_title: 정보통신공학전공
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs  
+         정보통신공학전공에서 4년간 공부하며 통신공학에서 네트워크를 배우고, 특히 자료구조 수업을 우수한 성적으로 이수하였습니다.
+          
 
 # Footer
 footer_show_references: true
