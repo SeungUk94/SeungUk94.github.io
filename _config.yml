@@ -49,7 +49,8 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
  3년 차 주니어 웹 개발자로서 서비스를 개발/배포/운영하였습니다. 주로 서비스 안정화, 에러 개선, 운영, 개발을 담당하였으며 프로젝트 재구축 업무에도 참여한 경험이 있습니다.
- 장기적으로 효율적인 방법을 선호합니다. 이를 위해 소스의 재사용성과 쿼리 효율증가의 역량을 쌓고자 노력해왔습니다. 또한 업무는 모두가 함께하는 것이기에 가독성 있는 소스를 작성하고 소통에 힘쓰며 협업해왔습니다.
+ 장기적으로 효율적인 방법을 선호합니다. 이를 위해 소스의 재사용성과 쿼리 효율증가의 역량을 쌓고자 노력했고, 운영에 사용되고있던 쿼리의 효율을 크게 향상시킨 경험이 있습니다. 
+ 
 
 
   Skills : <mark>Java</mark>  <mark>java script</mark>  <mark>jsp</mark>  <mark>HTML</mark>  <mark>Spring Framework</mark>   <mark>RDBMS</mark>  <mark>Oracle</mark>
@@ -102,7 +103,7 @@ content:
         # 통합의료정보시스템 솔루션 서비스 회사에서 운영/개발
         caption: 2020.11. - 2021.02.
         quote: >
-          성모병원 내 임상연구 페이지에서 전자세금계산서 발행 및 관리 서비스
+          성모병원 임상연구 부서에서 사용하는 서비스
         description: | # this will include new lines to allow paragraphs
             - 사내 플랫폼 내 임상연구 화면 생성 및 UI 개선
            
