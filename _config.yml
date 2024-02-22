@@ -59,13 +59,10 @@ content:
     content:
       - layout: left
         title: 평화이즈
-        # link: boringcompany.com
-        # link_text: boringcompany.com
         caption: 2020 - Present
-      - layout: left
-        # sub_title: 가톨릭법인 의료정보서비스 지원 IT 기업
-        caption: 가톨릭법인 의료정보서비스 지원 IT 기업
+         가톨릭법인 의료정보서비스 지원 IT 기업
          2020 - Present
+         
       - layout: left
         sub_title: 메디마스터
         # 통합의료정보시스템 솔루션 서비스 회사에서 운영/개발
@@ -73,9 +70,40 @@ content:
         quote: >
           가톨릭법인 3차 병원에서 사용하는 사용하는 약재 구매대행 서비스
         description: | # this will include new lines to allow paragraphs
-            가톨릭 병원의 약재 구매대행 서비스 메인 개발자로서 개발/운영 담당.
-            병원 창고 간 재고 이동 인터페이스 프로세스 개발
-            신규 기능을 위해 2년 치 데이터를 정확히 추적하여 삽입하여 데이터의 완전성과 품질을 향상
+            - 가톨릭 병원의 약재 구매대행 서비스 메인 개발자로서 개발/운영 담당
+            |- 병원 창고 간 재고 이동 인터페이스 프로세스 개발
+            |- 신규 기능을 위해 2년 치 데이터를 정확히 추적하여 삽입하여 데이터의 완전성과 품질을 향상
+           
+      - layout: left
+        sub_title: 장례식장
+        # 통합의료정보시스템 솔루션 서비스 회사에서 운영/개발
+        caption: 2022.01. - 2023.01.
+        quote: >
+          가톨릭법인 내 장례식장 서비스
+        description: | # this will include new lines to allow paragraphs
+            - 고가용품 판매현황 쿼리 효율을 개선하여 처리 시간을 2분에서 10초로 단축
+            - 폐기물 처리비용 프로세스를 추가
+            - 품목 단가 이력 관리 프로세스를 신규로 구축
+           
+      - layout: left
+        sub_title: 전자세금계산서
+        # 통합의료정보시스템 솔루션 서비스 회사에서 운영/개발
+        caption: 2021.06. - 2023.01.
+        quote: >
+          가톨릭법인의 전자세금계산서 발행 및 관리 서비스
+        description: | # this will include new lines to allow paragraphs
+            - 서비스 재구축에 참여하여 Rest API로 각 서비스로부터 계산서 정보를 송수신 받도록 개발
+            - 전자세금계산서 서비스에서 국세청 전송 I/f 오류를 식별하여 개선
+            - 서비스에서 발생한 반복 오류를 정형화하고 개선
+
+      - layout: left
+        sub_title: 임상연구 페이지 개발
+        # 통합의료정보시스템 솔루션 서비스 회사에서 운영/개발
+        caption: 2020.11. - 2021.02.
+        quote: >
+          성모병원 내 임상연구 페이지에서 전자세금계산서 발행 및 관리 서비스
+        description: | # this will include new lines to allow paragraphs
+            - 사내 플랫폼 내 임상연구 화면 생성 및 UI 개선
            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
