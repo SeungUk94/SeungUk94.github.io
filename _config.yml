@@ -105,7 +105,7 @@ content:
         quote: >
           성모병원 임상연구 부서에서 사용하는 서비스
         description: | # this will include new lines to allow paragraphs
-            - 사내 플랫폼 내 임상연구 화면 생성 및 UI 개선
+            - 사내 플랫폼을 활용하여 신규화면 생성 및 UI 개선
            
   - title: Other Experiences. # Title for the section
     layout: list # Type of content section (list/text)
