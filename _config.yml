@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 
-  Skills : <mark>Java</mark>  <mark>java script</mark>  <mark>jsp</mark>  <mark>HTML</mark>  <mark>Spring Framework</mark>   <mark>RDBMS</mark>  <mark>Oracle</mark>
+  Skills : <mark>Java</mark>  <mark>javaScript</mark>  <mark>jsp</mark>  <mark>HTML</mark>  <mark>Spring Framework</mark>   <mark>RDBMS</mark>  <mark>Oracle</mark>
 
 content:
   - title: Work Experience # Title for the section
